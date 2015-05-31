@@ -1,2 +1,2 @@
 <?
-	echo "hello world! shop page";
+	echo "hello world! shop page hello";
