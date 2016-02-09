@@ -1,2 +1,3 @@
 <?
 	echo "test";
+	echo "asdsd";
